@@ -1,8 +1,8 @@
 # Mechanistic-Interpretability-Resources
 
-Mech interp and representation learning resources. It started to getm essy as i learn more so i decided to keep everything in place. I will also add foundational papers as I come across them.
+Mech interp and representation learning resources. It started to get messy as i learn more so i decided to keep everything in place. I will also add foundational papers as I come across them.
 ## Mech interp basics
-* [learnmechinterp:](https://learnmechinterp.com) This is like a primer, where you can learn the fundamental ideas
+* [learnmechinterp:](https://learnmechinterp.com) This is like a textbook, where you can learn the fundamental ideas
 * [A Mathematical Framework for Transformer Circuits](https://learnmechinterp.com](https://transformer-circuits.pub/2021/framework/index.html))
 
 ## LLM Internals
@@ -15,5 +15,14 @@ Mech interp and representation learning resources. It started to getm essy as i 
 * [What are manifolds in deep learning?](https://perso.liris.cnrs.fr/mmayaki/public_html/notes/manifolds.html)
 
 ## Surveys
-* [Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety, Fazl Barez et al](https://tsglab.github.io/mechinterp-safety/) Currently reading this.
+* [Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety, Barez et al., 2025](https://tsglab.github.io/mechinterp-safety/) Currently reading this.
 * [Mechanistic Interpretability for AI Safety -- A Review, Bereska and Gavves](https://arxiv.org/abs/2404.14082)
+* [Open Problems in Mechanistic Interpretability, Sharkey et al., 2025](https://arxiv.org/abs/2501.16496)
+
+## Sparse Autoencoders
+* [Sparse Autoencoders Find Highly Interpretable Features in Language Models, Cunningham et al., 2023](https://arxiv.org/abs/2309.08600) One of the first works started the SAE-based interpretability of language models.
+* [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning, Anthropic, 2023](https://transformer-circuits.pub/2023/monosemantic-features) One of the first works started the SAE-based interpretability of language models.
+
+## Position Papers/Posts
+* [Activation space interpretability may be doomed, Apollo Research](https://www.lesswrong.com/posts/gYfpPbww3wQRaxAFD/activation-space-interpretability-may-be-doomed)
+* [Three Desiderata for Faithfulness in Machine Learning Explanations: The Case for Causal Abstraction, Andersen et al., NeurIPS 2025, Workshop: Mechanistic Interpretability ]
