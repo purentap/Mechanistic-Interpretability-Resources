@@ -27,4 +27,5 @@ Mech interp and representation learning resources. It started to get messy as i 
 
 ## Position Papers/Posts
 * [Activation space interpretability may be doomed, Apollo Research](https://www.lesswrong.com/posts/gYfpPbww3wQRaxAFD/activation-space-interpretability-may-be-doomed)
+* [Dear XAI Community, We Need to Talk! Fundamental Misconceptions in Current XAI Research, Freiesleben and König, 2023](https://arxiv.org/pdf/2306.04292)
 * [Three Desiderata for Faithfulness in Machine Learning Explanations: The Case for Causal Abstraction, Andersen et al., NeurIPS 2025, Workshop: Mechanistic Interpretability](https://openreview.net/pdf?id=b0rXC856Sm)
